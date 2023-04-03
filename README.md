@@ -16,6 +16,8 @@ Set the TESSDATA_PREFIX environment variable to
 /usr/share/tesseract-ocr/3.04/
 ```
 
+## Usage
+
 Now you can run audiveris with
 
 ```
